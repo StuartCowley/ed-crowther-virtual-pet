@@ -1,0 +1,14 @@
+{
+  "name": "virtual-pet",
+  "version": "1.0.0",
+  "description": "MCR Codes OOP Track - Create a virtual pet",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Edward Crowther",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
